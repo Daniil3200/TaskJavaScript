@@ -1,20 +1,3 @@
-console.error("TaskJS#1");
-console.log("Hello World!!");
-
-console.error("TaskJS#2");
-var num = 1;
-console.log("Пример: " + (num) + " + " + (num) + " = " + (num + num) )
-
-
-console.error("TaskJS#3");
-var num_1 = "23";
-var num_2 = "8";
-var num_3; var num_4; 
-console.log("Сложение строк: " + ( num_3 = num_1 + num_2));
-console.log("Сложение чисел: " + ( num_4 = Number(num_1) + Number(num_2)));
-console.log("Общая сумма: " + (Number(num_3) + num_4));
-
-
 console.error("TaskJS#4");
 
 var strk = ["Number", "2", "4", "world", "36", "stroka", "3", "home", "8", "3"];
